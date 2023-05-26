@@ -1,10 +1,13 @@
-# Music-Player with JavaScript
+# Music-Player
+*Музыкальный плейер с выбранными композициями*
 
-Function
-1) Random Song
-2) Previous Song
-3) Next Song
-4) Repeat Song
+## [Посмотреть и потыкать]()
 
-The Layout Design of Music Player
-![Screenshot 2023-02-01 110931](https://user-images.githubusercontent.com/86345777/215935830-07cfc994-c4f7-421c-91c5-f2ad7a0d42d4.png)
+В функционал входят:
+- ползунок громкости
+- ползунок трека
+- базовые кнопки (остановка, вперед, назад)
+- визуализация звуковой дорожки
+- кнопка для включения случайной композиции
+- повтор трека
+- крутящаяся обложка
