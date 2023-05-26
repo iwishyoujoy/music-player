@@ -1,4 +1,4 @@
-# Music-Player
+# Music Player
 *Музыкальный плеер с выбранными композициями*
 
 ## [Посмотреть и потыкать](https://iwishyoujoy.github.io/music-player/)
