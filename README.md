@@ -1,10 +1,16 @@
-# Music-Player with JavaScript
+# Music Player
+*Музыкальный плеер с выбранными композициями*
 
-Function
-1) Random Song
-2) Previous Song
-3) Next Song
-4) Repeat Song
+## [Посмотреть и потыкать](https://iwishyoujoy.github.io/music-player/)
+<img width="696" alt="image" src="https://github.com/iwishyoujoy/music-player/assets/92114723/697080a1-6b4c-4065-8b61-69cb12b87535">
 
-The Layout Design of Music Player
-![Screenshot 2023-02-01 110931](https://user-images.githubusercontent.com/86345777/215935830-07cfc994-c4f7-421c-91c5-f2ad7a0d42d4.png)
+\
+__В функционал входят:__
+- ползунок громкости
+- ползунок трека
+- базовые кнопки (остановка, вперед, назад)
+- визуализация звуковой дорожки
+- кнопка для включения случайной композиции
+- повтор трека
+- крутящаяся обложка
+
